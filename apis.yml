@@ -1,4 +1,16 @@
 aid: rss-feed-to-json
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/rss-feed-to-json.png
 name: RSS feed to JSON
 description: "Returns RSS feed in JSON format using feed URL"
 url: https://rss-to-json-serverless-api.vercel.app

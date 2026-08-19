@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/rss-feed-t
 name: RSS feed to JSON
 description: "Returns RSS feed in JSON format using feed URL"
 url: https://rss-to-json-serverless-api.vercel.app
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis

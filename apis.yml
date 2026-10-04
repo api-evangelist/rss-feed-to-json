@@ -39,7 +39,6 @@ apis:
   - name: RSS feed to JSON
     description: "Returns RSS feed in JSON format using feed URL"
     humanURL: https://rss-to-json-serverless-api.vercel.app
-    baseURL: https://rss-to-json-serverless-api.vercel.app
     tags:
       - Development
     properties:
